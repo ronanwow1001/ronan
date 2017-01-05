@@ -1,0 +1,50 @@
+:CogbotOnlineStartingScreen...Starting The Game
+:password:123@alpha
+:username:456team:imagination
+:(loaded)opening file cboLogo...
+:phasefile(DonaldPlayground)
+:phasefile(Daisygardens)
+:phasefile:(cogbot central)
+:phasefile:(cog-torial)
+:phasefile:(toon-torial) 
+:phasefile:(cognation/lobby:bossbot
+:phasefile:(coghq/lobby:lawbot
+:Phasefile:(Database loading...
+:Succsessfully loaded...
+:CreateZone:(???)
+:CreateZone:(coglobby:sellbot):(CreateZone with phase and panda3d files)
+:CreateZone:(coglobby:cashbot):(CreateZone with phase and panda3d files)      
+:CreateZone:(coglobby:lawbot):(CreateZone with phase and panda3d files)
+:CreateZone:(coglobby:bossbot):(CreateZone with phase and panda3d files)
+:CreateZone:(coghq):(CreateZone with phase and panda3d files)
+:CreateZone:(cognation):(CreateZone with phase and panda3d files)
+:CreateZone:(Daisygardens):(CreateZone with phase and panda3d files)
+:CreateZone:(DonaldsDock):(CreateZone with phase and panda3d files)
+:If...(:(magicword)???<<vaild>>:Teleport(Show<<???>>))
+:If...(:(magicword)coglobby:bossbot)<<vaild>>:Teleport(Show<<coglobby:<<(sellbot>>))
+:If...(:(magicword)coglobby:cashbot)<<vaild>>:Teleport(Show<<coglobby:<<cashbot>>))
+:If...(:(magicword)coglobby:lawbot)<<vaild>>:Teleport(Show<<coglobby:<<lawbot>>))                                  
+:If...(:(magicword)coglobby:sellbot)<<vaild>>:Teleport(Show<<coglobby:<<bossbot>>))                     
+:If...(:(magicword)DonaldsDock)DonaldsDock(<<vaild>>:Teleport(Show<<DonaldsDocks>>))
+:If...(:(magicword)Daisygardens)<<vaild>>:Teleport(Show<<Daisygardens>>))
+:(ToontownloadingScreen.dll(<<...opening...>>))
+:Browsed Files to Desktop...
+:Browsing(Succsessful)
+:(invaild syntax)if(True)...create files:(.dll)/(for example:msvcr120.dll/libpandaexpress.dll)repeating...)
+:(invaild syntax)if(True)...create files:(.dll)/(for example:msvcr120.dll/libpandaexpress.dll)repeating...)
+:(invaild syntax)if(True)...create files:(.dll)/(for example:msvcr120.dll/libpandaexpress.dll)repeating...)
+:(invaild syntax)if(True)...create files:(.dll)/(for example:msvcr120.dll/libpandaexpress.dll)repeating...)
+
+                                       (...waiting...)
+
+:(invaild syntax)if(True)...create files:(.dll)/(for example:msvcr120.dll/libpandaexpress.dll)goal accomplished...)
+
+                                       (...waiting...)
+
+:(vaild syntax)if(True)...create files:(.dll/(for example:msvcr120.dll/libpandaexpress.dll)repeating...)
+:(vaild syntax)if(True)...create files:(.dll/(for example:msvcr120.dll/libpandaexpress.dll)repeating...)
+:(vaild syntax)if(True)...create files:(.dll/(for example:msvcr120.dll/libpandaexpress.dll)repeating...)
+
+                                       (...waiting...)
+                                             
+:(vaild syntax)if(True)...create files:(.dll/(for example:msvcr120.dll/libpandaexpress.dll)goal accomplished...)
